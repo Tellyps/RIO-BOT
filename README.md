@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+ℙ𝕊𝕄𝕆𝕍𝕀𝔼𝕊𝔹𝕆𝕋!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗣S+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="Logo/image_downloader_1682791733467.jpg" alt="PS BOTZ LOGO">
+  <img src="Logo/Rio.jpg" alt="PS BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
